@@ -1,0 +1,11 @@
+class Demo
+{
+    public static void main(String[] args) 
+
+    {
+        System.out.println("NAME= M. BINDHU");
+        System.out.println("ROLL NO= AV.SC.U4CSE24226");
+        System.out.println("SEC= C");
+        System.out.println("BRANCH= CSE");
+    }
+}
